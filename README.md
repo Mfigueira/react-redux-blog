@@ -1,8 +1,8 @@
-# React Seasons
+# React Redux Blog
 
 ## What is this?
 
-This is simple project I made with CRA to practice React concepts. It uses the Geolocation API to fetch the user's location and determine with the current month if the user is in Winter or Summer season.
+This is simple project I made with CRA to practice React and Redux concepts.
 
 Based on lectures from Stephen Grider's React course.
 
